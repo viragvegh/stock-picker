@@ -127,3 +127,5 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+#  note to self: ignore file passwords and api keys later on if needed
