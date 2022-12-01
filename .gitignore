@@ -128,4 +128,4 @@ dmypy.json
 # Pyre type checker
 .pyre/
 
-#  note to self: ignore file passwords and api keys later on if needed
+#  note to self: add file passwords and ignore api keys later on if needed
